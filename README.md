@@ -1,7 +1,5 @@
 # CV
 
----
-
 ### PDF: [Open](./CV_Lavrik_Alexey.pdf)
 
 ### Contacts: 
